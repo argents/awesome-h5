@@ -15,7 +15,7 @@ npm run dev
 # 启动转发层服务
 https://github.com/iuoon/TWServer 
 
-# 修改utils目录api.js的host_addr为自己的TWServer服务地址
+# 本工程为vue项目框架，可直接下载进行项目开发
 ```
 
 For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
